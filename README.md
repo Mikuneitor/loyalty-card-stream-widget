@@ -1,1 +1,0 @@
-# loyalty-card-stream-widget
